@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Shivain Koul</h1>
 
 🎯 Aspiring Business Analyst | Data Analytics Enthusiast | Learning Power BI & Data Analytics
-<br>📍 India
+<br>📍 New Delhi, India
 
 <h2>🚀 About Me</h2>
 

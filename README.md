@@ -1,43 +1,69 @@
-<h1>👋 Hi, I'm Shivain Koul</h1>
+<h1 align="center">SHIVAIN KOUL</h1>
+<h3 align="center">Business & Data Analyst | Insights-Driven Decision Support</h3>
 
-🎯 Aspiring Business / Data Analyst | Data Analytics Enthusiast | Learning Power BI & Data Analytics
-<br>📍 New Delhi, India
+<p align="center">
+New Delhi, India &nbsp;|&nbsp;
+shivainkoul27@gmail.com &nbsp;|&nbsp;
+<a href="https://linkedin.com/in/shivainkoul">LinkedIn</a>
+</p>
 
-<h2>🚀 About Me</h2>
+---
 
-I’m an aspiring Business Analyst currently building strong foundations in data analytics and visualization.
-<br>I’m actively learning Power BI, SQL, and business problem-solving to transform data into meaningful insights.
+### About Me
 
-<h2>🔍 Focus Areas:</h2>
-•Business Analytics
-<br>•KPI & Performance Analysis
-<br>•Data Visualization
-<br>•Dashboard Design
+I'm an aspiring business analyst with a BBA background, focused on translating raw data into clear, decision-ready insights. My work centers on identifying business trends, tracking performance through KPIs, and building dashboards that help stakeholders act with confidence.
 
-<h2>🛠️ Skills & Tools (Learning & Practicing)</h2>
-<p> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>  </p>
-<h2>📊 Featured Project</h2>
-</>🛒 Flipkart Sales Dashboard</>
+I'm currently seeking a **Business Analyst / Data Analyst internship or entry-level role**, where I can apply my analytical and visualization skills to real business problems.
 
-<br>An interactive Power BI dashboard analyzing sales performance, revenue trends, regional growth, and product insights.
+---
 
-Key Highlights:
+### Core Competencies
 
-✔ Revenue & Profit Analysis
-<br>✔ Category-wise Performance
-<br>✔ Regional Insights
-<br>✔ Business-driven Recommendations
+- Business Performance & KPI Analysis
+- Data Visualization & Dashboard Design
+- SQL for Data Extraction and Analysis
+- Business Case Analysis & Insight Generation
 
-<h2>📈 Currently Improving</h2>
+---
 
-•SQL Queries
-<br>•Data Modeling in Power BI
-<br>•Real-world Business Case Studies
-<br>•Analytical Thinking
+### Technical Skills
 
-<h2>🌐 Connect With Me</h2>
-<p> <a href="https://linkedin.com/in/shivainkoul"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href="mailto:shivainkoul27@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a> <a href="https://instagram.com/shivainnnn__"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></p>
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-<h2>⭐ "Learning today. Improving every day. Delivering tomorrow."</h2>
+---
+
+### Featured Project
+
+**Flipkart Sales Dashboard** — Power BI
+
+An interactive dashboard built to analyze sales performance and support data-driven business decisions.
+
+- Revenue and profit trend analysis
+- Category-wise performance breakdown
+- Regional sales insights
+- Business recommendations derived from the data
+
+*(Add a link to the project repository, live dashboard, or case study writeup here)*
+
+---
+
+### Currently Developing
+
+- Advanced SQL querying
+- Data modeling in Power BI
+- Applied business case studies
+- Structured analytical problem-solving
+
+---
+
+### Connect
+
+<p>
+<a href="https://linkedin.com/in/shivainkoul"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shivainkoul27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>

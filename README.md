@@ -60,11 +60,26 @@ An interactive dashboard built to analyze sales performance and support data-dri
 
 *(https://github.com/shivainkoul/Flipkart-sales-Dashboards)*
 
+
+
+  <H3> ii) IBM HR Analytics – Employee Attrition Dashboard (Power BI) </H3> 
+  <br>
+
+An interactive dashboard built to analyze employee attrition and support HR retention strategy.
+
+- Attrition rate and headcount overview
+- Department and job-role wise attrition breakdown
+- Key driver analysis (overtime, travel, distance, salary hike)
+- Demographic filters (gender, job role, job level) for deeper insights
+
+*(https://github.com/shivainkoul/IBM-Attrition-Analysis-Dasboard)*
+
 </details>
 
 ---
 
 <details>
+  
 <summary> <H2>CURRENTLY DEVELOPING </H2> </summary>
 <br>
 
@@ -79,7 +94,7 @@ An interactive dashboard built to analyze sales performance and support data-dri
 
 
 
-<H2> CONNECT WITH ME HERE </H2>
+<H2> CONNECT WITH ME HERE !</H2>
 
 <p>
 <a href="https://linkedin.com/in/shivainkoul"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

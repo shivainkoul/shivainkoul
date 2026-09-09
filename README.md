@@ -45,7 +45,7 @@ I'm currently seeking a **Business Analyst / Data Analyst internship or entry-le
 
 ---
 
-<details open>
+<details>
 <summary><B> <H2>FEATURED PROJECTS </b>  </H2></summary>
   
 <H3> i) Flipkart Sales Dashboard (Power BI) </H3>
